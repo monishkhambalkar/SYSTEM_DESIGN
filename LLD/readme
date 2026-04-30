@@ -1,0 +1,34 @@
+LLD (LOW LEVEL DESIGN)
+
+    DESIGN : 
+        HLD => 
+        LLD => It is mejorly focus on classes and object within a system.
+        ACTUAL CODE =>  
+
+    GOAL : 
+        - To write clean code 
+        - code should be flexible and maintanable 
+        - code should be easy to test 
+        
+What is a URL Shortener : 
+    A URL shortener converts a long URL into a short, compact URL.
+
+    Example:
+        Original URL:
+            https://www.amazon.in/gp/product/B0XYZ123456789?ref=something-long
+        
+        Short URL:
+            https://bit.ly/abc123
+
+Why do we need URL Shorteners
+    Easy to share
+    Tracking & Analytics
+    Branding
+
+
+
+
+
+
+
+
